@@ -5,6 +5,7 @@
   <maintainer email="tim.clephas@nobleo.nl">Tim Clephas</maintainer>
   <license>Apache 2.0</license>
 
+  <url>https://github.com/nobleo/rviz_robot_description_topic</url>
   <author email="tim.clephas@nobleo.nl">Tim Clephas</author>
 
   <buildtool_depend>catkin</buildtool_depend>
