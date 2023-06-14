@@ -1,6 +1,6 @@
 <package format="2">
   <name>rviz_robot_description_topic</name>
-  <version>0.1.0</version>
+  <version>1.0.0</version>
   <description>RobotModel display using a `/robot_description` topic instead of a parameter</description>
   <maintainer email="tim.clephas@nobleo.nl">Tim Clephas</maintainer>
   <license>Apache 2.0</license>
