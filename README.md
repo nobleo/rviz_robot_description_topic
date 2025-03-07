@@ -22,7 +22,7 @@ If you plan on using the [ros1_bridge](https://github.com/ros2/ros1_bridge) to c
 If you are in the early stages of migration, you can already convert your robot description parameter to a topic using a small python node:
 
 ```python
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import rospy
 from std_msgs.msg import String
 
